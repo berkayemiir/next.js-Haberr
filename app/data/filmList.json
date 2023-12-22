@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "film_adi": "ataturk",
+            "img_src":"https//:google.com",
+            "href":"/haber/1"
+            
+        },
+        {
+            "id": 2,
+            "film_adi": "nefes-yer-2",
+            "img_src":"https//:google.com",
+            "href":"/haber/2"
+            
+        },
+        {
+            "id": 3,
+            "film_adi": "Haile 2: Var mı, Yok mu?!",
+            "img_src":"https//:google.com",
+            "href":"/haber/3"
+            
+        },
+        {
+            "id": 4,
+            "film_adi": "Ölümlü Dünya 2",
+            "img_src":"https//:google.com",
+            "href":"/haber/4"
+            
+        },
+        {
+            "id": 5,
+            "film_adi": "Öğretmen",
+            "img_src":"https//:google.com",
+            "href":"/haber/5"
+            
+        },
+        {
+            "id": 6,
+            "film_adi": "Vatikan'ın Şifresi: Bir Temel Macerası",
+            "img_src":"https//:google.com",
+            "href":"/haber/6"
+            
+        },
+        {
+            "id": 7,
+            "film_adi": "Kolpaçino 4 4'lük",
+            "img_src":"https//:google.com",
+            "href":"/haber/7"
+            
+        },
+        {
+            "id": 8,
+            "film_adi": "Murat Göğebakan: Kalbim Yaralı",
+            "img_src":"https//:google.com",
+            "href":"/haber/8"
+            
+        },
+        {
+            "id": 9,
+            "film_adi": "Nefes - Yer Eksi İki",
+            "img_src":"https//:google.com",
+            "href":"/haber/9"
+            
+        },
+        {
+            "id": 10,
+            "film_adi": "C Takımı",
+            "img_src":"https//:google.com",
+            "href":"/haber/10"
+            
+        },
+        {
+            "id": 11,
+            "film_adi": "Ölümlü Dünya 2",
+            "img_src":"https//:google.com",
+            "href":"/haber/11"
+            
+        },
+        {
+            "id": 12,
+            "film_adi": "Demon:Azab-ül Kem",
+            "img_src":"https//:google.com",
+            "href":"/haber/12"
+            
+        }
+    ]
+}
